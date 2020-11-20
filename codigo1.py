@@ -33,7 +33,7 @@ imc=round(float(persona[" Peso"])/(float(persona[" Altura"])**2),2)
 
 persona ["IMC"]=imc
 
-print ( "----------------------------------------------- ---------- " )
+print ( "----------------------------------------------- ---------- " 
 
 imprimir ()
 cat_imc(imc)
