@@ -1,5 +1,6 @@
 print("Bienvenido al programa...")
 
+
 # Diccionario que recopila los datos del usuario
 persona={" Nombre":""," Apellido":""," Edad":0," Peso":0," Altura":0," Dirección":""," Telefono":""}
 
